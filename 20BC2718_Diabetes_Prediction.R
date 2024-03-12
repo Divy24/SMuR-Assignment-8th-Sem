@@ -6,7 +6,7 @@ library(rpart)
 library(randomForest)
 
 # Load the diabetes dataset
-data <- read.csv("D:/data analysis/meriskill/meriskill project 2/diabetes.csv")
+data <- read.csv("C:/Users/divya/Downloads/diabetes.csv")
 
 head(data)
 summary(data)
